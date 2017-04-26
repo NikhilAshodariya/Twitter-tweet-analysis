@@ -14,9 +14,9 @@ import useGUI
 import twitter_Analysis
 
 consumer_key='Your customer key'
-consumer_secret=''
-akey='-'
-asecret=''
+consumer_secret='Your customer Secret'
+akey='Your Authentication Key'
+asecret='Your Secret Key'
 
 
 class Application:
