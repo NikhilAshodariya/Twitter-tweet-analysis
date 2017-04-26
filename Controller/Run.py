@@ -13,10 +13,10 @@ from tweepy.streaming import StreamListener
 import useGUI
 import twitter_Analysis
 
-consumer_key='x9om0iHAuB8OnddJ4Zo0jhncw'
-consumer_secret='epn4Y2OIwOaGHeM4GWZpodvwhNK8JMMSkDdsWKhrj3gDNQPf8g'
-akey='856217924473958401-EdtIZi9fnOQ8ga6GV3uE2iGgqjZOCX7'
-asecret='x5XmxzkgL1Eh66oxIcqmfpzaJYJcZRWBbU2zhPcv7bTQ2'
+consumer_key='Your customer key'
+consumer_secret=''
+akey='-'
+asecret=''
 
 
 class Application:
